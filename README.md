@@ -56,7 +56,7 @@
 │	│	└── api.ts
 │	├── redux
 │	│	├── store.ts
-│   │   └──
+│       └──
 │	├── router
 │	
 ├── services
@@ -68,7 +68,7 @@
 │	│	│	└── reduxSlices.ts
 │	│	├── components
 │	│	└── containters
-│   ├── [module1]
+│   	├── [module1]
 │
 ├── masterpages
 │	├── [masterpage0]
@@ -78,9 +78,9 @@
 │	│		├── [page0]
 │	│		│	├── components
 │	│		│	└── containters
-│   │       ├── [page1]
-│   │
-│   ├── [masterpage1]
+│   	│       ├── [page1]
+│   	│
+│   	├── [masterpage1]
 │
 ├── assets
 │   ├──
