@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "eslint.format.enable": true,
+    "editor.formatOnPaste": true
+}
